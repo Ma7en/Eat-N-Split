@@ -5,7 +5,7 @@
 Main project mazen saad
 vite
 
-<!-- upload files to github -->
+# <!-- upload files to github -->
 
 git init
 
