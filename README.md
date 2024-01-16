@@ -5,7 +5,7 @@
 Main project mazen saad
 vite
 
-# <!-- upload files to github -->
+## <!-- upload files to github -->
 
 git init
 
@@ -23,7 +23,7 @@ git remote add origin https://github.com/Ma7en/Eat-N-Split.git
 
 git push -u origin main
 
-<!-- upload files to firebase -->
+## <!-- upload files to firebase -->
 
 npm install -g firebase-tools
 
